@@ -22,5 +22,5 @@
 * No clicks, move cursor only 没有点击动作
 * Default 恢复默认设置
 
-![](https://github.com/Tast0/KinectControlWebGL/blob/master/KinectControlWebGL/20171016220250.jpg)  
+ ![](https://github.com/Tast0/KinectControlWebGL/blob/master/KinectControlWebGL/20171016220250.jpg)  
 
