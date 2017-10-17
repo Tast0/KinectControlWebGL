@@ -13,7 +13,7 @@
 
 软件使用
 ----------------------
- ![](https://github.com/Tast0/KinectControlWebGL/blob/master/KinectControlWebGL/20171016220250.jpg)  
+  ![](https://github.com/Tast0/KinectControlWebGL/blob/master/KinectControlWebGL/20171016220251.jpg)  
 *  `Mouse Sensitivity` 鼠标灵敏度设置，数值越大，则会导致手部发生微动就会引起光标移动
 *  `Pause-To-Click Time Required`  确定点击动作，所需要的时间，此按键要与Pause To Click 按钮连用
 *  `Pause Movement Thresold`  光标所控范围
